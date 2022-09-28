@@ -1,0 +1,7 @@
+# 設定ファイル
+
+# 投稿先Slackチャンネル名 (アプリを追加したチャンネルの名前)
+CHANNEL="<Channel name on Slack>"
+
+# Slack API のトークン
+SLACK_API_TOKEN="<TOKEN>"
